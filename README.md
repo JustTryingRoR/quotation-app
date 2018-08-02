@@ -1,24 +1,21 @@
-# QuotationApplication
+# QuotationApp ver.0.0.1
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a Ruby on Rails 5 app that allows user to create their own quotes anonymously.
 
-Things you may want to cover:
+### Features
 
-* Ruby version
+> Early development status of app, no features yet.
 
-* System dependencies
+### Upcoming Features
 
-* Configuration
+- View all quotes
+- Add quotes anonymously
 
-* Database creation
+### Code Example
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```ruby
+def create
+    @quotes = Quote.new(params.require(:quote).permit(:quote)
+end
+```
+>Author : Łukasz Bartmiński
