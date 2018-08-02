@@ -4,11 +4,10 @@
 
 ### Features
 
-> Early development status of app, no features yet.
+- View all quotes
 
 ### Upcoming Features
 
-- View all quotes
 - Add quotes anonymously
 
 ### Code Example
