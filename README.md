@@ -1,14 +1,15 @@
-# QuotationApp ver.0.0.1
+# QuotationApp ver.1.0.0
 
 > This is a Ruby on Rails 5 app that allows user to create their own quotes anonymously.
 
 ### Features
 
 - View all quotes
+- Add quotes anonymously
 
 ### Upcoming Features
 
-- Add quotes anonymously
+> Development of this app has been suspended.
 
 ### Code Example
 
